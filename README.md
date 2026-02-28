@@ -52,7 +52,7 @@ Interactividad
 - Diseño adaptable a dispositivos móviles
 
 Demo en Línea
-link de la pagina
+https://sanchez-wen.github.io/WildCats-Explorer/
 ```
 https://sanchez-wen.github.io/WildCats-Explorer/
 ```
