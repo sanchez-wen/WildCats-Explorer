@@ -52,10 +52,9 @@ Interactividad
 - Diseño adaptable a dispositivos móviles
 
 Demo en Línea
-
-(Coloca aquí tu enlace cuando lo subas)
+link de la pagina
 ```
-https://tuenlaceaqui.com
+https://sanchez-wen.github.io/WildCats-Explorer/
 ```
 
 Estructura del Proyecto
